@@ -32,5 +32,12 @@
     </form>
   </div>
 </body>
-
+body {
+  <script>
+  document.querySelector('form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    document.querySelector('.form-container').innerHTML = '<h2>¡Agradecemos por llenar el formulario!</h2>';
+  });
+</script>
 </html> 
+
