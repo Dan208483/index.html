@@ -30,14 +30,13 @@
 
       <button type="submit">Enviar</button>
     </form>
-  </div>
-</body>
-body {
-  <script>
-  document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault();
-    document.querySelector('.form-container').innerHTML = '<h2>¡Agradecemos por llenar el formulario!</h2>';
-  });
+    <script>
+document.querySelector('#miFormulario').addEventListener('submit', function(event) {
+  event.preventDefault();
+  // Aquí puedes validar los campos si lo necesitas
+  window.location.href = 'felicitaciones.html';
+});
 </script>
-</html> 
+ 
+
 
