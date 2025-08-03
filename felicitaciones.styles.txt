@@ -5,15 +5,15 @@
   <title>¡Gracias por registrar a tu mascota!</title>
   <style>
     body {
-      background-color: #f0f8ff; /* Color de fondo */
-      font-family: 'Arial', sans-serif; /* Fuente */
-      color: #333; /* Color del texto */
+      background-color: #f0f8ff; 
+      font-family: 'Arial', sans-serif; 
+      color: #333; 
       text-align: center;
       padding-top: 100px;
     }
 
     h1 {
-      color: #4CAF50; /* Verde */
+      color: #4CAF50;
       font-size: 2.5em;
     }
 
@@ -27,3 +27,4 @@
   <p>Has registrado exitosamente a tu mascota. ¡Gracias por confiar en nosotros!</p>
 </body>
 </html>
+
