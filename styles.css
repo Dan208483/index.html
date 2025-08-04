@@ -35,16 +35,13 @@ body {
 h2 {
   margin-bottom: 20px;
   color: #333;
-  text-align: center
 }
-
-form {
-  text-align: left;
 
 form label {
   display: block;
   margin-top: 15px;
   color: #fff;
+  text-align: senter;
 }
 
 form input,
@@ -72,6 +69,7 @@ form button:hover {
   background-color: #5098cc;
 
 }
+
 
 
 
