@@ -6,7 +6,7 @@
 body {
   background-color: #8bb6c9;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: flex-start;
   min-height: 100vh;
   padding: 40px;
@@ -69,6 +69,7 @@ form button:hover {
   background-color: #5098cc;
 
 }
+
 
 
 
